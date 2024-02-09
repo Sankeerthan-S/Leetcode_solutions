@@ -11,6 +11,6 @@ class Solution {
         }
         arr[i]=count;
     }
-    return count;
+    return arr;
 }
 }
